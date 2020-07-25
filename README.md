@@ -1,0 +1,2 @@
+# pewarisan
+pewarisan tunggal
